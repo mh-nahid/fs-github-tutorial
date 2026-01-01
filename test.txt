@@ -1,0 +1,12 @@
+
+
+
+version control     
+change control           These three are the basics of git
+Collaboration
+
+
+Github is a tool which is a online remote folder called repository which we can share with everyone or private
+
+I am living in finland
+I am a student in CSE
